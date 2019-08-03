@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- XML demonstration -->
+
+<?xml-stylesheet type="text/css" href="https://rawcdn.githack.com/tizen20/cdn/f89a4fdfe297cdc433fc338b5f2e8888c94ed859/styles.css"?>
+<!--https://rawcdn.githack.com/tizen20/cdn/f89a4fdfe297cdc433fc338b5f2e8888c94ed859/styles.css-->
+<database>
+    <title>Tags Available</title>
+    <main>
+        <tag id="tag">XML</tag>
+        <tag id="tag">HTML</tag>
+        <tag id="tag">Other thing</tag>
+    </main>
+</database>
