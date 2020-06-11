@@ -39,7 +39,7 @@
         {
             "display": "Optifine",
             "source": "https://rawcdn.githack.com/urlcontrol/cdn/be473e8e0e84528db53cc0bdf01913b79f919a8d/OptiFine_1.12.2_HD_U_F5.jar",
-            "type": 2
+            "type": 0
         },
         {
             "display": "PTRLib",
