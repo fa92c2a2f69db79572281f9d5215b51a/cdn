@@ -95,6 +95,16 @@
             "display": "Autoreglib",
             "source": "https://media.forgecdn.net/files/2746/11/AutoRegLib-1.3-32.jar",
             "type": 2
+        },
+        {
+            "display": "Felling",
+            "source": "https://media.forgecdn.net/files/2689/21/felling-1.4.1-1.12.x.jar",
+            "type": 2
+        },
+        {
+            "display": "Veining",
+            "source": "https://media.forgecdn.net/files/2578/505/veining-1.3.2-1.12.x.jar",
+            "type": 2
         }
     ]
 }
