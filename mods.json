@@ -70,6 +70,26 @@
             "display": "Just Enough Items",
             "source": "https://media.forgecdn.net/files/2803/400/jei_1.12.2-4.15.0.291.jar",
             "type": 0
+        },
+        {
+            "display": "Vending Block",
+            "source": "https://media.forgecdn.net/files/2614/896/vending-1.12.2-3.0.1.2.jar",
+            "type": 2
+        },
+        {
+            "display": "Ender Pay",
+            "source": "https://media.forgecdn.net/files/2517/377/enderpay-1.12.2-1.0.1.0.jar",
+            "type": 2
+        },
+        {
+            "display": "Better FPS",
+            "source": "https://media.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar",
+            "type": 2
+        },
+        {
+            "display": "Morpheus",
+            "source": "https://media.forgecdn.net/files/2664/449/Morpheus-1.12.2-3.5.106.jar",
+            "type": 2
         }
     ]
 }
