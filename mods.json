@@ -67,11 +67,6 @@
             "type": 2
         },
         {
-            "display": "Better FPS",
-            "source": "https://media.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar",
-            "type": 2
-        },
-        {
             "display": "Morpheus",
             "source": "https://media.forgecdn.net/files/2664/449/Morpheus-1.12.2-3.5.106.jar",
             "type": 2
@@ -87,23 +82,18 @@
             "type": 2
         },
         {
-            "display": "Felling",
-            "source": "https://media.forgecdn.net/files/2689/21/felling-1.4.1-1.12.x.jar",
+            "display": "Mouse Tweaks",
+            "source": "https://media.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar",
+            "type": 0
+        },
+        {
+            "display": "FoamFix",
+            "source": "https://media.forgecdn.net/files/2845/668/foamfix-0.10.10-1.12.2.jar",
             "type": 2
         },
         {
-            "display": "Veining",
-            "source": "https://media.forgecdn.net/files/2578/505/veining-1.3.2-1.12.x.jar",
-            "type": 2
-        },
-        {
-            "display": "Mo' Creatures",
-            "source": "https://media.forgecdn.net/files/2628/698/DrZharks%20MoCreatures%20Mod-12.0.5.jar",
-            "type": 2
-        },
-        {
-            "display": "Custom Mob Spawner",
-            "source": "https://media.forgecdn.net/files/2859/433/CustomMobSpawner-3.11.5.jar",
+            "display": "Tree Chopper",
+            "source": "https://media.forgecdn.net/files/2492/770/TreeChopper-1.12.2-1.2.4.jar",
             "type": 2
         }
     ]
