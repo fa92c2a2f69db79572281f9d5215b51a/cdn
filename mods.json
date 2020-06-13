@@ -95,6 +95,11 @@
             "display": "Tree Chopper",
             "source": "https://media.forgecdn.net/files/2492/770/TreeChopper-1.12.2-1.2.4.jar",
             "type": 2
+        },
+        {
+            "display": "Nature's Compass",
+            "source": "https://media.forgecdn.net/files/2893/530/NaturesCompass-1.15.2-1.8.5.jar",
+            "type": 2
         }
     ]
 }
